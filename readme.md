@@ -75,13 +75,15 @@
 **Ruby Language**
 
 - Eloquent Ruby
-- Head First Ruby
-- Programming Ruby (Pick-axe book)
-- The Well-Grounded Rubyist
+- Head First Ruby *(O'Reilly)*
+- Programming Ruby (Pick-axe book) *(Pragmatic Bookshelf)*
+- Ruby Cookbook *(O'Reilly)*
+- The Well-Grounded Rubyist *(Manning)*
 
 **Ruby on Rails Framework**
 
 - Agile Web Development with Rails
 - Rails 4 in Action
+- Rails, Postgres, Angular, and Bootstrap *(Pragmatic Bookshelf)*
 - Ruby on Rails Tutorial - Third Edition
 - The Rails Way

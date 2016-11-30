@@ -82,8 +82,7 @@
 
 **Ruby on Rails Framework**
 
-- Agile Web Development with Rails
-- Rails 4 in Action
+- Agile Web Development with Rails *(Pragmatic Bookshelf)*
 - Rails, Postgres, Angular, and Bootstrap *(Pragmatic Bookshelf)*
 - Ruby on Rails Tutorial - Third Edition
 - The Rails Way

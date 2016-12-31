@@ -46,7 +46,9 @@
 ### Databases and Tools
 
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
-- **<a href="https://mongoid.github.io/" target="_blank">Mongoid</a>** - ODM (Object-Document-Mapper) framework for MongoDB in Ruby
+	- **<a href="https://docs.mongodb.com/manual/core/aggregation-pipeline/">MongoDB Aggregation Framework</a>**
+	- **<a href="https://mongoid.github.io/" target="_blank">Mongoid</a>** - ODM (Object-Document-Mapper) framework for MongoDB in Ruby
+	- **<a href="https://docs.mongodb.com/ruby-driver/master/">Ruby MongoDB Driver</a>**
 - **<a href="https://www.mysql.com/" target="_blank">MySQL</a>**
 - **<a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a>**
 - **<a href="https://www.sqlite.org/" target="_blank">SQLite</a>**

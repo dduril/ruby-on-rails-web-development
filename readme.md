@@ -46,6 +46,7 @@
 ### Databases and Tools
 
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
+	- **<a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>**
 	- **<a href="https://docs.mongodb.com/manual/core/aggregation-pipeline/">MongoDB Aggregation Framework</a>**
 	- **<a href="https://mongoid.github.io/" target="_blank">Mongoid</a>** - ODM (Object-Document-Mapper) framework for MongoDB in Ruby
 	- **<a href="https://docs.mongodb.com/ruby-driver/master/">Ruby MongoDB Driver</a>**

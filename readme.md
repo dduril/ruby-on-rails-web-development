@@ -45,13 +45,16 @@
 - **<a href="https://www.postgresql.org/" target="_blank">PostgreSQL</a>**
 - **<a href="https://www.sqlite.org/" target="_blank">SQLite</a>**
 
-### Development Environments
+### Ruby Development Environments
 
 - **<a href="http://www.activestate.com/komodo-ide" target="_blank">ActiveState Komodo IDE</a>**
 - **<a href="http://www.aptana.com/products/radrails.html" target="_blank">Aptana RadRails</a>**
 - **<a href="https://www.jetbrains.com/ruby/" target="_blank">Jetbrains RubyMine</a>**
-- **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 
+### Text Editors
+
+- **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
+- 
 ### Source Management and Version Control
 
 - **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**

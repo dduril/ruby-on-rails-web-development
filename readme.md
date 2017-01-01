@@ -26,19 +26,7 @@
 - **<a href="http://rake.rubyforge.org/" target="_blank">Rake</a>** 
 - **<a href="http://guides.rubyonrails.org/active_record_basics.html" target="_blank">Active Record</a>**
 
-### Cloud Development
-
-- **<a href="https://c9.io/" target="_blank">Cloud9</a>**
-- **<a href="https://codeanywhere.com/" target="_blank">Codeanywhere</a>**
-
-### Deployment Options
-
-- **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**
-- **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
-	- **<a href="https://toolbelt.heroku.com/" target="_blank">Heroku Toolbelt</a>**
-- **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
-
-### Assets
+### Development Assets
 
 - **<a href="https://angularjs.org/" target="_blank">AngularJS</a>**
 - **<a href="http://getbootstrap.com/" target="_blank">Bootstrap</a>**
@@ -46,7 +34,7 @@
 - **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">CSS</a>** / **<a href="https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3" target="_blank">CSS3</a>**
 - **<a href="https://jquery.com/" target="_blank">jQuery</a>**
 
-### Databases and Tools
+### Databases and Tools - Relational and NoSQL
 
 - **<a href="https://www.mongodb.com/" target="_blank">MongoDB</a>**
 	- **<a href="https://docs.mongodb.com/manual/">MongoDB Manual</a>**
@@ -64,13 +52,25 @@
 - **<a href="https://www.jetbrains.com/ruby/" target="_blank">Jetbrains RubyMine</a>**
 - **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
 
-### Version Control
+### Source Management and Version Control
 
 - **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**
 - **<a href="https://git-scm.com/" target="_blank">Git</a>** (Version Control/Source Code Management)
 - **<a href="https://github.com/" target="_blank">Github</a>** (web-based Git repository hosting service)
 
-### Tutorials
+### Cloud Development and IDE
+
+- **<a href="https://c9.io/" target="_blank">Cloud9</a>**
+- **<a href="https://codeanywhere.com/" target="_blank">Codeanywhere</a>**
+
+### Deployment Options
+
+- **<a href="https://www.engineyard.com/" target="_blank">Engine Yard</a>**
+- **<a href="https://www.heroku.com/" target="_blank">Heroku</a>**
+	- **<a href="https://toolbelt.heroku.com/" target="_blank">Heroku Toolbelt</a>**
+- **<a href="https://www.openshift.com/" target="_blank">OpenShift</a>**
+
+### Popular Tutorials
 
 - **<a href="https://www.ruby-lang.org/en/documentation/quickstart/" target="_blank">Ruby in Twenty Minutes</a>**
 - **<a href="http://guides.rubyonrails.org/" target="_blank">Ruby on Rails Guides</a>**

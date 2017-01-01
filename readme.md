@@ -53,8 +53,10 @@
 
 ### Text Editors
 
+- **<a href="http://brackets.io/" target="_blank">Brackets</a>**
+- **<a href="https://notepad-plus-plus.org/" target="_blank">Notepad++</a>**
 - **<a href="https://www.sublimetext.com/" target="_blank">Sublime Text</a>**
-- 
+
 ### Source Management and Version Control
 
 - **<a href="https://bitbucket.org/" target="_blank">Atlassian Bitbucket</a>**

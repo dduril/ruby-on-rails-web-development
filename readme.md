@@ -5,10 +5,12 @@
 ### Getting Started
 
 - **<a href="http://railsinstaller.org/en" target="_blank">RailsInstaller</a>**
+- **<a href="http://rubycentral.org/">Ruby Central</a>**
 
 ### Ruby Programming Language
 
-- **<a href="https://www.ruby-lang.org/en/" target="_blank">Ruby</a>**
+- **<a href="https://www.ruby-lang.org/en/" target="_blank">Ruby Language</a>**
+- **<a href="http://ruby-doc.org/" target="_blank">Ruby Documentation</a>**
 - **<a href="https://en.wikipedia.org/wiki/Ruby_(programming_language)" target="_blank">Ruby - Wikipedia</a>**
 
 ### Ruby Gems

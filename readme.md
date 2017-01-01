@@ -74,6 +74,7 @@
 
 - **<a href="https://www.ruby-lang.org/en/documentation/quickstart/" target="_blank">Ruby in Twenty Minutes</a>**
 - **<a href="http://guides.rubyonrails.org/" target="_blank">Ruby on Rails Guides</a>**
+- **<a href="https://3rd-edition.railstutorial.org/book" target="_blank">Ruby on Rails Tutorial (3rd Edition)</a>**
 
 ---
 
